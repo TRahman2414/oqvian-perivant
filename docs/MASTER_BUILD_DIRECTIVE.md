@@ -1,4 +1,4 @@
-# CODEX MASTER BUILD DIRECTIVE
+# OQVIAN PERIVANT MASTER BUILD DIRECTIVE
 # OQVIAN PERIVANT
 ## External Attack Surface & Exposure Change Intelligence Command Center
 
@@ -8,8 +8,6 @@
 **Brand:** OQVIAN  
 **Project Type:** Functional Cybersecurity Product Demonstration  
 **Development Target:** 3–5 development days  
-**Primary Engineer:** Codex  
-**Supporting Agents:** Antigravity, OpenCode, Kilo Code (if available)  
 **Deployment:** Local Linux Laptop  
 **Required Paid APIs:** None  
 **GPU Requirement:** None
@@ -1861,63 +1859,6 @@ Target:
 A useful initial engineering target is below approximately 1–2 GB of RAM for the active demo processes, but measure before making claims.
 
 Keep the runtime simple.
-
----
-
-# 31. CODEX AND SUPPORTING AGENTS
-
-Codex is the integration authority.
-
-## Codex
-
-Responsible for:
-
-- Architecture.
-- Local lab safety.
-- Network observation.
-- Baseline comparison.
-- Detection engine.
-- Database.
-- API.
-- Integration.
-- Testing.
-
-## Antigravity
-
-Optional responsibilities:
-
-- Frontend design system.
-- Dashboard.
-- Configuration-diff interface.
-- Investigation workspace.
-- Visual polish.
-
-## OpenCode
-
-Optional responsibilities:
-
-- Fictional seed data.
-- Simple UI components.
-- Documentation.
-- Narrow utility modules.
-
-## Kilo Code
-
-Optional responsibilities:
-
-- Unit tests.
-- Focused reviews.
-- Small isolated refactoring.
-
-Use external assistants only when available.
-
-Assign narrow, independent tasks.
-
-One agent should own a file at a time.
-
-Codex must review and verify delegated work.
-
-If no supporting agent is available, continue independently.
 
 ---
 
